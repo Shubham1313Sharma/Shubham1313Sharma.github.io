@@ -1,0 +1,311 @@
+
+
+	  header {
+	  background-color: #4267b2;
+	  height: 30px;
+	}
+	
+	#ra{
+		background-color:rgb(233,235,238);
+		
+	}
+	#wrapper {
+		  margin-top: 16px;
+		  margin-bottom: 16px;
+		}
+		
+	footer {
+	  background-color: rgb( 233, 235, 238 );
+		height: 30px;
+	}
+		
+
+		#main,
+		#menu1,
+		#sidebar {
+		  height:600px;
+		}
+
+		#main { background-color:  #e9ebee; }
+
+		#menu1 { background-color:  #e9ebee; 
+		font-size:12px;
+		padding:0auto;
+
+		         
+		}
+
+		#sidebar { background-color:  #e9ebee; }
+		#header {
+			background-color: #4267b2;
+			color: white;
+				}
+				
+	#white-text {
+		  color: white;
+		}
+				
+		.search-box{
+			position:relative;
+			top: 8px;
+			height:27.3px;
+			width: 500px;
+		}
+		
+		.search-button{
+			position:relative;
+			top: 8px;
+			margin-left:-43px;
+			height:25px;
+			border:none;
+		}
+		.white-text {
+		  color: white !important;
+		}
+		
+		#header ul .glyphicon {
+    font-size: 20px;
+		}
+		.icon{
+			color: black !important;
+		}
+		#img1{
+			margin-left: 100px;
+			height:40px;
+			margin-right: 3px;
+			margin-top: 9px;
+		}
+		#img2{
+			height:35px;
+			width:35px;
+			margin-top: 10px;
+			margin-right: auto;
+		}
+		
+		#form{
+			padding:0px;
+			
+		}
+	
+		
+		#brand{
+			padding:0px;
+			
+		}
+		
+		.pull-right {
+		float: right!important;
+	}	
+
+		.list-heading {
+			padding: 20px 15px 0 15px;
+		}	
+		
+		.logo{
+			margin-right: 8px;
+		}
+		.photo{
+			width: 25px;
+			height: 25px;
+			border-radius: 4px;
+			margin-right: 8px;
+		}
+		
+		.badge{
+			position:relative;
+			float: right;
+			top:3px;
+		}
+		
+		.frame{
+			float: right;
+			margin-bottom: 4px;
+		}
+		.margin{
+			margin-left:-5px;
+			font-size:13px;
+		}
+		
+		.picture{
+			color: black;
+		
+		}
+		
+		.panel-body .glyphicon {
+			margin-left: 10px;
+			margin-right: 4px;
+		}
+		
+		.text-post {
+			margin-bottom: 15px;
+			margin-top: 0;
+		}
+		
+		
+		.image-post {
+				margin-bottom: 15px;
+			}
+			
+			#main {
+				overflow: auto;
+				
+			}
+			
+			
+			#main::-webkit-scrollbar {
+					display: none;
+				}
+				.comment {
+					margin: 0;
+				}
+			#img3{
+				height: 40px;
+				width: 40px;
+			}
+
+			.symbol{
+				height: 25px;
+				width: 25px;
+				border-radius: 18px;
+			}
+			
+		
+			.visual{
+				height:30px;
+				width:30px;
+				
+			}
+		
+
+			#menu{
+				overflow:auto;
+				
+				
+			}
+			#menu::-webkit-scrollbar {
+					display: none;
+				}
+			.ice{
+				margin: 2px;
+							}
+			
+			.bridge{
+				color: rgb(69, 101, 161);
+			}
+			
+			.bird{
+				color:rgb(199, 200, 202);
+			}
+			
+			.rain{
+				height: 32px;
+				width: 32px;
+			}
+			.poll{
+				position: relative;
+				left: 6px;
+				top:-9px;
+			}
+			
+			.tool{
+				color: rgb(175, 177, 183);
+				position: relative;
+				top: -9px;
+				left: 10px;
+			}
+			
+			.key{
+				position: relative;
+				left: 48px;
+				top: -18px;
+			}
+			
+			.pen{
+				position: relative;
+				left: 4px;
+				}
+				
+				.ten{
+				position: relative;
+				left: 6px;
+				}
+			#img4{
+				height: 40px;
+				width: 40px;
+			}	
+				.jai{
+					height :50px;
+					width: 40px;
+					
+				 }
+#main,
+#menu,
+#sidebar, {
+  height: 1000px;
+}
+
+
+#main,
+
+#menu,
+#sidebar {
+  background-color: #e9ebee ! important;
+}
+
+
+
+
+
+.under-text{
+	color: grey;
+}
+.panel-heading
+{
+	color: blue;
+}
+
+.plus
+{
+padding-left:200px;	
+margin-bottom:30px;
+}
+#sidebar{
+	overflow:auto;
+	}
+	#sidebar::-webkit-scrollbar{
+		
+		display:none;
+	}
+	       .zet{
+			   font-size: 13px;
+				color: rgb( 175, 177, 183);
+			}
+			.pin{
+				position: relative;
+				right: -8px;
+			}
+			.tin{
+				position: relative;
+				right: -6px;
+			
+			}
+			
+			.kit{
+				position: relative;
+				right: -6px;
+				top: -7px;
+			}
+			.pit{
+				position: relative;
+				right: -30px;
+				top: -10px;
+			}
+			.try{
+				
+				position: relative;
+				left:-35px;
+				margin-top:15px
+			}
+
+				
+	
